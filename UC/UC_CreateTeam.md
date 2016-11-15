@@ -3,14 +3,14 @@
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
-this use case will allow the user to create a new team.
+This use case will allow the user to create a new team.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow 
 The user specifies the team name which what he wants to create a team. The system checks, whether the team name already exists. 
-If the name is not taken, create the team and notify the team has been successfully created. End
+If the name is not taken, create the team and notify the team has been successfully created.
 #### 2.1.1 UML diagram
-![UML][]
+![UML]
 
 #### 2.1.2 Mock-up 
 ![Mock][]
