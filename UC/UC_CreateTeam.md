@@ -7,10 +7,15 @@ this use case will allow the user to create a new team.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow 
-UML diagram: https://drive.google.com/open?id=0B9TxrfClR7EIZWJfWVlTZDZFVGs
-Mock-up: https://drive.google.com/open?id=0B9TxrfClR7EIVlFkTDdpcW9GTUk
 The user specifies the team name which what he wants to create a team. The system checks, whether the team name already exists. 
 If the name is not taken, create the team and notify the team has been successfully created. End
+#### 2.1.1 UML diagram
+![UML][]
+
+#### 2.1.2 Mock-up 
+![Mock][]
+
+![Feature][]
 
 ### 2.2 Alternative Flows
 #### 2.2.1 Team name is taken
@@ -26,6 +31,11 @@ none
 ### 5.1 Team created
 the team was successfully created
 ### 5.2	Team not created
-	if error occurs the team will not be created  (example: team name already in use)
+if error occurs the team will not be created  (example: team name already in use)
 ## 6. Extension Points
 n/a
+
+<!-- picture links -->
+[UML]: https://github.com/JoinSports/Documentation/blob/master/UC/Create%20Team.png "UML Diagram"
+[Mock]: https://github.com/JoinSports/Documentation/blob/master/UC/Mockup%20create%20team.png "Mock-Up"
+[Feature]:  "Feature file"
