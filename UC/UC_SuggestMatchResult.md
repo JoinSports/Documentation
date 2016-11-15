@@ -14,12 +14,12 @@ If the suggestion was declined the team leader can make a new suggestion to the 
 which must be confirmed the same way as before.
 
 #### 2.1.1 UML diagram
-![UML][]
+![UML]
 
 #### 2.1.2 Mock-up 
-![Mock][]
+![Mock]
 
-![Feature][]
+![Feature]
 
 ### 2.2 Alternative Flows
 #### 2.2.1 Team name is taken
