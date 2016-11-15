@@ -15,7 +15,58 @@ If the name is not taken, create the team and notify the team has been successfu
 #### 2.1.2 Mock-up 
 ![Mock]
 
+#### 2.1.3 Feature file
 ![Feature]
+
+Correct register:
+```
+Feature: Create Team
+  as a User
+  I want to create a new team
+ 	Scenario: correct registration, normal execution
+    Given: The chosen team name is “TeamTest”
+    When: the create team button is clicked
+    Then: a new team is created and a message “Team successfully created!” is shown
+```
+Team name invalid:
+```
+Feature: Create Team
+  as a User
+  I want to create a new team
+ 	Scenario: team name has wrong characters or is too short/long
+    Given: The chosen team name is “ABC”
+    When: the create team button is clicked
+    Then: a new team is created and a message “Team successfully created!” is shown
+```
+
+Team name unavailable:
+```
+Feature: Create Team
+  as a User
+  I want to create a new team
+ 	Scenario: problem during the registration (name already taken)
+      	Given: The chosen team name is “TeamTest”
+      	When: the create team button is clicked
+      	Then: the feedback shows “Name unavailable, please try again with another name!”
+              [a) The User should give another name, starting the Use Case again.
+               b) The User can abort.]
+
+```
+
+Internal server error:
+```
+Feature: Create Team
+  as a User
+  I want to create a new team
+ 	Scenario: problem during the registration (server or internal error)
+    Given: The chosen team name is a correct expression
+    When: the create team button is clicked
+    Then: the feedback shows “Internal server error, please try again later or contact our support team!”
+          [a) The User can wait until the issues are fixed.
+           b) The User can ask to the support team if the problem remains]
+
+```
+
 
 ### 2.2 Alternative Flows
 #### 2.2.1 Team name is taken
@@ -38,4 +89,4 @@ n/a
 <!-- picture links -->
 [UML]: https://github.com/JoinSports/Documentation/blob/master/UC/Create%20Team.png "UML Diagram"
 [Mock]: https://github.com/JoinSports/Documentation/blob/master/UC/Mockup%20create%20team.png "Mock-Up"
-[Feature]:  "Feature file"
+<!-- [Feature]:  "Feature file" -->
