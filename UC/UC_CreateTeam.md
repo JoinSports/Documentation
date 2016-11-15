@@ -13,9 +13,9 @@ If the name is not taken, create the team and notify the team has been successfu
 ![UML]
 
 #### 2.1.2 Mock-up 
-![Mock][]
+![Mock]
 
-![Feature][]
+![Feature]
 
 ### 2.2 Alternative Flows
 #### 2.2.1 Team name is taken
