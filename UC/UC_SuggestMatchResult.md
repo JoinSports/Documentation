@@ -19,6 +19,7 @@ which must be confirmed the same way as before.
 #### 2.1.2 Mock-up 
 ![Mock]
 
+#### 2.1.3 Feature file
 ![Feature]
 
 ### 2.2 Alternative Flows
