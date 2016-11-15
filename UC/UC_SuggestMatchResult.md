@@ -3,7 +3,7 @@
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
-This use case is for suggest a match result after the end of a match
+This use case is for suggest a match result after the end of a match.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow 
