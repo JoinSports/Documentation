@@ -45,11 +45,11 @@ Feature: Create Team
   as a User
   I want to create a new team
  	Scenario: problem during the registration (name already taken)
-      	Given: The chosen team name is “TeamTest”
-      	When: the create team button is clicked
-      	Then: the feedback shows “Name unavailable, please try again with another name!”
-              [a) The User should give another name, starting the Use Case again.
-               b) The User can abort.]
+    Given: The chosen team name is “TeamTest”
+    When: the create team button is clicked
+    Then: the feedback shows “Name unavailable, please try again with another name!”
+          [a) The User should give another name, starting the Use Case again.
+           b) The User can abort.]
 
 ```
 
