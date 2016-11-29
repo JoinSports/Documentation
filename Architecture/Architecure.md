@@ -36,7 +36,7 @@ provides operations on that data as well as performing database operations.
 ##5. Logical View
 ###5.1 Overview
 ![ClassDiagram][]
-###5.2 Architecturally Significant Design Packages
+<!-- ###5.2 Architecturally Significant Design Packages -->
 
 ##6. Process View
 (n/a)
