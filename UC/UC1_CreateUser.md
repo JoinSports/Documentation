@@ -3,7 +3,7 @@
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
-This use case will allow the user to create a new account within the JoinsSports application.
+This use case will allow the user to create a new account within the JoinSports application.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow 
@@ -92,6 +92,6 @@ If an error occurs the user account will not be created.  (example: username alr
 n/a
 
 <!-- picture links -->
-[UML]: https://github.com/JoinSports/Documentation/blob/master/UC/Create%20Team.png "UML Diagram"
-[Mock]: https://github.com/JoinSports/Documentation/blob/master/UC/Mockup%20create%20team.png "Mock-Up"
+[UML]: ? "UML Diagram"
+[Mock]: ? "Mock-Up"
 <!-- [Feature]:  "Feature file" -->
