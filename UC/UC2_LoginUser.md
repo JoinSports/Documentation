@@ -38,7 +38,7 @@ Feature: Login user
  	Scenario: username does not exist in the system database
     Given the entered username is 'aNotExistingUsername'
     When the login button is clicked
-    Then the login failed and a message “Invalid username, the username does not exist!” is shown
+    Then the login failed and a message "Invalid username, the username does not exist!" is shown
 ```
 
 Password incorrect:
@@ -49,7 +49,7 @@ Feature: Login user
  	Scenario: username correct, but wrong password
     Given the chosen username is 'TestUser'
     When the login button is clicked
-    Then the login failed and a message “Incorrect password, please try to login again!” is shown
+    Then the login failed and a message "Incorrect password, please try to login again!" is shown
 ```
 
 Internal server error:
@@ -60,7 +60,7 @@ Feature: Login user
  	Scenario: problem during the registration (server or internal error)
     Given the chosen combination is a correct expression
     When the login button is clicked
-    Then the feedback shows “Internal server error, please try again later or contact our support team!”
+    Then the feedback shows "Internal server error, please try again later or contact our support team!"
           [a) The User can wait until the issues are fixed
            b) The User can ask to the support team if the problem remains]
 
@@ -78,12 +78,12 @@ n/a
 The JoinsSport application must be installed and executed on a Android device.
 
 ## 5. Postconditions
-### 5.1 User logged in
+### 5.1 User login successful
 The user is logged in with his user account. The application forwards the user to the start page.
 The user is now allowed to use the funtionality of an normal user within the JoinSports application.
 
-### 5.2	User not logged in
-If the combination of username and password is incorrect the login process failed. The user has to try it again wih different login data. 
+### 5.2	User login failed
+If the combination of username and password is incorrect the login process failed. The user has to try it again with different login data. 
 
 ## 6. Extension Points
 n/a
