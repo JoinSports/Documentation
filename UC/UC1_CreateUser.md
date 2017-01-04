@@ -9,7 +9,7 @@ This use case will allow the user to create a new account within the JoinSports 
 ### 2.1 Basic Flow 
 The user specifies his personal user data. The system checks, whether the username already exists or if the user data fullfill the requirements. 
 If the username is not taken and the user data are correct, create the user account and notify the user has been successfully created. 
-Otherwise print out an error message that the user account could not has been created. In this case the user has to correct his user data and confirm them again. 
+Otherwise print out an error message that the user account could not be created. In this case the user has to correct his user data and confirm them again. 
 
 #### 2.1.1 UML diagram
 ![UML]
@@ -25,8 +25,8 @@ Correct registration:
 Feature: Create user
   As a unknown user
   I want to create a new user account
- 	Scenario: correct registration / normal execution
-    Given the chosen username is “TestUser”
+ 	Scenario: correct registration (normal execution)
+    Given the chosen username is 'TestUser'
     When the create user button is clicked
     Then a new user account is created and a message “User successfully created!” is shown
 ```
@@ -36,7 +36,7 @@ Feature: Create user
   As a unknown user
   I want to create a new user account
  	Scenario: username has wrong characters or is too short/long
-    Given the chosen username is “ABC”
+    Given the chosen username is 'ABC'
     When the create user button is clicked
     Then the registration failed and a message “Invalid username, please specify a correct username!” is shown
 ```
@@ -47,7 +47,7 @@ Feature: Create user
   as a unknown user
   I want to create a new user account
  	Scenario: problem during the registration (name already taken)
-    Given the chosen username is “TestUser”
+    Given the chosen username is 'TestUser'
     When the create user button is clicked
     Then the feedback shows “Username unavailable, please try again with another name!”
           [a) The User should give another name, starting the Use Case again.
@@ -72,7 +72,7 @@ Feature: Create user
 
 ### 2.2 Alternative Flows
 #### 2.2.1 Username is already taken
-If username is taken, which the user entered, show an error message to the user that the user account could not has been created. End of flow.
+If username is taken, which the user entered, show an error message to the user that the user account could not be created. End of flow.
 (In this case the user has to correct his user data and confirm them again.)
 
 ## 3. Special Requirements
