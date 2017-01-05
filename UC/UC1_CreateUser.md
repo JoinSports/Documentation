@@ -18,7 +18,7 @@ Otherwise print out an error message that the user account could not be created.
 ![Mock]
 
 #### 2.1.3 Feature file
-![Feature]
+<!-- ![Feature] -->
 
 Correct registration:
 ```cucumber
