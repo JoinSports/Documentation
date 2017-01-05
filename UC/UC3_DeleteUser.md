@@ -54,7 +54,7 @@ The user must be logged in to his JoinSport account.
 
 ## 5. Postconditions
 ### 5.1 User account deleted
-The user has deleted his account and is forwarded to th login/registration page.
+The user has deleted his account and is forwarded to the login/registration page.
 
 ### 5.2	User account not deleted
 If there were problems during the connection to the server the deletion failed.
