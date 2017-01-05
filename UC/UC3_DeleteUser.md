@@ -18,7 +18,7 @@ The user select the option to delete his account within the settings menu.
 #### 2.1.3 Feature files
 <!-- ![Feature] -->
 
-Correct login:
+Deletion successful:
 ```cucumber
 Feature: Delete user
   As a normal user
