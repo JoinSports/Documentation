@@ -18,7 +18,7 @@ Otherwise the application print out an error message that either username or pas
 ![Mock]
 
 #### 2.1.3 Feature files
-![Feature]
+<!-- ![Feature] -->
 
 Correct login:
 ```cucumber
@@ -75,7 +75,7 @@ If the entered combination of username and password is incorrect, show an error 
 n/a
 
 ## 4. Preconditions
-The JoinsSport application must be installed and executed on a Android device.
+The JoinsSports application must be installed and executed on a Android device.
 
 ## 5. Postconditions
 ### 5.1 User login successful
