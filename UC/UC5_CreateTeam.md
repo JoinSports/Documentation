@@ -16,7 +16,7 @@ If the name is not taken, create the team and notify the team has been successfu
 ![Mock]
 
 #### 2.1.3 Feature file
-![Feature]
+<!-- ![Feature] -->
 
 Correct register:
 ```cucumber
