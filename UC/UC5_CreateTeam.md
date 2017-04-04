@@ -1,5 +1,5 @@
-#JoinSports
-#Use-Case Specification: Create team
+# JoinSports
+# Use-Case Specification: Create team
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
