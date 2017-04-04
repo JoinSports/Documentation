@@ -1,5 +1,5 @@
-#JoinSports
-#Use-Case Specification: Delete team
+# JoinSports
+# Use-Case Specification: Delete team
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
