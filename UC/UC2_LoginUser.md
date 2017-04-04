@@ -1,5 +1,5 @@
-#JoinSports
-#Use-Case Specification: Login user
+# JoinSports
+# Use-Case Specification: Login user
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
