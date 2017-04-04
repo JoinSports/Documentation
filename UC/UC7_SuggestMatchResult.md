@@ -1,5 +1,5 @@
-#JoinSports
-#Use-Case Specification: Suggest match result
+# JoinSports
+# Use-Case Specification: Suggest match result
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
