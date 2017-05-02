@@ -25,8 +25,8 @@
 - Show Match: to be done
 - Update Match: to be done
 - Delete Match: to be done
-- Register for Match: to be done
-- Deregister for Match: to be done
+- Register User for Match: to be done
+- Deregister User for Match: to be done
 
 
 ## Competitive Match (CRUD)
