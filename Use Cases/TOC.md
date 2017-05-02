@@ -20,18 +20,18 @@
 - Delete Event: to be done
 - Update Event: to be done
 
-## Free Play Match (CRUD)
-- Create Match: to be done
-- Show Match: to be done
-- Update Match: to be done
-- Delete Match: to be done
-- Register User for Match: to be done
-- Deregister User for Match: to be done
+## Freeplay Match (CRUD)
+- [Create Freeplay Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC11_CreateFreeplayMatch.md): to be done
+- [Show Freeplay Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC12_ShowFreeplayMatch.md): to be done
+- [Update Freeplay Match](): to be done
+- [Delete Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC14_DeleteFreeplayMatch.md): to be done
+- [Register User for Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC15_RegisterUserForFreeplayMatch.md): to be done
+- [Deregister User for Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC16_DeregisterUserForFreeplayMatch.md): to be done
 
 
 ## Competitive Match (CRUD)
-- Create Match: to be done
-- Show Match: to be done
-- Update Match: to be done
-- Delete Match: to be done
-- Enter Match Result: to be done
+- [Create Competitive Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC17_CreateCompetitiveMatch.md): to be done
+- [Show Competitive Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC18_ShowCompetitiveMatch.md): to be done
+- [Update Competitive Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC19_UpdateCompetitiveMatch.md): to be done
+- [Delete Competitive Match](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC20_DeleteCompetitiveMatch.md): to be done
+- [Enter Competitive Match Result](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC21_EnterCompetititiveMatchResult.md): to be done
