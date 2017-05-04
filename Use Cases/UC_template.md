@@ -65,6 +65,6 @@ If an error occurs ...
 n/a
 
 <!-- picture links -->
-[UML]: https://github.com/JoinSports/Documentation/blob/master/Class-diagram-UML/ClassDiagram_UML_cut.jpeg "UML Diagram"
+[UC]: https://github.com/JoinSports/Documentation/blob/master/Class-diagram-UML/ClassDiagram_UML_cut.jpeg "UML Diagram"
 [Mock]: ? "Mockup"
 <!-- [Feature]:  "Feature file" -->
