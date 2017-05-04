@@ -1,8 +1,8 @@
 # Use Cases
 
 ## User (CRUD) 
-- [Show User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC8_ShowUser.md): to be done
 - [Create User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC1_CreateUser.md)
+- [Read User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC8_ReadUser.md): to be done
 - [Update User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC4_UpdateUser.md): to be done
 - [Delete User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC3_DeleteUser.md): to be done
 - [Login User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC2_LoginUser.md)
