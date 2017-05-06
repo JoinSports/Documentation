@@ -12,7 +12,7 @@ If the username is not taken and the user data are correct, create the user acco
 Otherwise print out an error message that the user account could not be created. In this case the user has to correct his user data and confirm them again. 
 
 #### 2.1.1 UML diagram
-![UML diagram][UML]
+![UC diagram][UC]
 
 #### 2.1.2 Mockup 
 ![Mockup][Mock]
@@ -92,6 +92,6 @@ If an error occurs the user account will not be created.  (example: username alr
 n/a
 
 <!-- picture links -->
-[UML]: https://github.com/JoinSports/Documentation/blob/master/Class-diagram-UML/ClassDiagram_UML_cut.jpeg "UML Diagram"
+[UC]: ? "UML Diagram"
 [Mock]: ? "Mockup"
 <!-- [Feature]:  "Feature file" -->
