@@ -18,7 +18,6 @@ If the database access was successful, the application shows the user data on th
 ![Mockup][Mock]
 
 #### 2.1.3 Feature file
-<!-- ![Feature] -->
 
 Database query successful:
 ```cucumber
@@ -67,6 +66,5 @@ Instead he can see an error message that database connection was unsuccessful.
 n/a
 
 <!-- picture links -->
-[UC]: https://github.com/JoinSports/Documentation/blob/master/Class-diagram-UML/ClassDiagram_UML_cut.jpeg "UML Diagram"
+[UC]: https://github.com/JoinSports/Documentation/blob/master/Activity%20Diagrams/ReadUser.png "UC Diagram"
 [Mock]: ? "Mockup"
-<!-- [Feature]:  "Feature file" -->
