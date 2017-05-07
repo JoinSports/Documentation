@@ -66,5 +66,5 @@ Instead he can see an error message that database connection was unsuccessful.
 n/a
 
 <!-- picture links -->
-[UC]: https://github.com/JoinSports/Documentation/blob/master/Activity%20Diagrams/ReadUser.png "UC Diagram"
+[UC]: https://github.com/JoinSports/Documentation/blob/master/Activity%20Diagrams/UC02_ReadUser_ActivityDiagram.png "UC Diagram"
 [Mock]: ? "Mockup"
