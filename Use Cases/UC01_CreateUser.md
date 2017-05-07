@@ -92,6 +92,6 @@ If an error occurs the user account will not be created.  (example: username alr
 n/a
 
 <!-- picture links -->
-[UC]: ? "UML Diagram"
+[UC]: https://github.com/JoinSports/Documentation/blob/master/Activity%20Diagrams/UC01_CreateUser_ActivityDiagram.png "UC Diagram"
 [Mock]: ? "Mockup"
 <!-- [Feature]:  "Feature file" -->
