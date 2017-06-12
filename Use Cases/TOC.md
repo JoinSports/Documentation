@@ -8,6 +8,10 @@
 - [UC05 Login User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC05_LoginUser.md)
 
 ## Team (CRUD)
+- [Read All Unjoined Teams](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadAllUnjoinedTeams.md): to be done
+- [Read Unjoined Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadUnjoinedTeam.md): to be done
+- [Read All Joined Teams](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadAllJoinedTeams.md): to be done
+- [Read Joined Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadJoinedTeam.md): to be done
 - [UC06 Create Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC06_CreateTeam.md): to be done
 - [UC07 Read Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC07_ReadTeam.md): to be done
 - [UC08 Update Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC08_UpdateTeam.md): to be done
