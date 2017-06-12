@@ -1,11 +1,11 @@
 # Use Cases
 
 ## User (CRUD) 
-- [UC01 Create User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC01_CreateUser.md)
-- [UC02 Read User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC02_ReadUser.md):
-- [UC03 Update User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC03_UpdateUser.md): to be done
-- [UC04 Delete User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC04_DeleteUser.md): to be done
-- [UC05 Login User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC05_LoginUser.md)
+- [Create User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/CreateUser.md)
+- [Read User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadUser.md):
+- [Update User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UpdateUser.md): to be done
+- [Delete User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/DeleteUser.md): to be done
+- [Login User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/LoginUser.md)
 
 ## Team (CRUD)
 - [Read All Unjoined Teams](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadAllUnjoinedTeams.md): to be done
