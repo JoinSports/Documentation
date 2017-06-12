@@ -12,10 +12,9 @@
 - [Read Unjoined Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadUnjoinedTeam.md): to be done
 - [Read All Joined Teams](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadAllJoinedTeams.md): to be done
 - [Read Joined Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadJoinedTeam.md): to be done
-- [UC06 Create Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC06_CreateTeam.md): to be done
-- [UC07 Read Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC07_ReadTeam.md): to be done
-- [UC08 Update Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC08_UpdateTeam.md): to be done
-- [UC09 Delete Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC09_DeleteTeam.md): to be done
+- [Create Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/CreateTeam.md): to be done
+- [Update Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UpdateTeam.md): to be done
+- [Delete Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/DeleteTeam.md): to be done
 
 ## Event (CRUD)
 - [UC10 Create Event](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC10_CreateEvent.md): to be done
