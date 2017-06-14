@@ -1,0 +1,48 @@
+bis 19. Juni 2017:
+==================
+Handout
+--> Stunden aktualisieren
+--> UCs Scope Grafik
+
+Präsentation überarbeiten
+--> Development Tools
+	- Scrumming (Jira): 2. Diagramm von "Final Sprint"
+	- Langzeitplanung: 4. Semester Meilensteine eintragen & Gant-Chart erzeugen
+
+--> Kostenabschätzung Function Points (FP)
+	- Vergleich geschätzte Zeit & wirklich benötigte Zeit 
+	- TinyTools
+	- Diagramm
+
+
+--> Softwarearchitektur
+	- UC-Duiagramm updaten & einzelne Bereich vergrößert darstellen
+	- Klassendiagramm neu generieren 
+	- MVP-Architektur Graphik updaten
+	- ERM updaten
+
+--> Patterns
+	- MVC
+	- DAO
+	- Registry
+
+
+--> Testing
+	- Übersicht-Grafik Testing mit Logos
+	- Coveralls
+--> Automatisierung
+	- TravisCI (Screenshot-Grafik: Build passing!!!)
+--> Metrics
+	- Codacy
+
+
+--> Continious Integration/Lifecycle Management (Automatic Deploy)
+	- Veröffentlichung auf GitHub möglich
+
+
+Archiv-PDF-Datei 
+--> Abgabe an Präsenatationstag (aus Blog generiert)
+
+bis 4.Juli 2017:
+================
+Final Blogpost mit allen Links zu den wöchentlichen Homeworks
