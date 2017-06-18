@@ -9,17 +9,20 @@ Präsentation überarbeiten
 	- Scrumming (Jira): 2. Diagramm von "Final Sprint"
 	- Langzeitplanung: 4. Semester Meilensteine eintragen & Gant-Chart erzeugen
 
+--> Risk Management
+	- Excel Tabelle (Screenshot)
+
 --> Kostenabschätzung Function Points (FP)
-	- Vergleich geschätzte Zeit & wirklich benötigte Zeit 
-	- TinyTools
-	- Diagramm
+	- Vergleich geschätzte Zeit & wirklich benötigte Zeit			OK
+	- TinyTools								OK
+	- Diagramm								OK
 
 
 --> Softwarearchitektur
-	- UC-Duiagramm updaten & einzelne Bereich vergrößert darstellen
+	- UC-Duiagramm updaten & einzelne Bereich vergrößert darstellen		OK
 	- Klassendiagramm neu generieren 
 	- MVP-Architektur Graphik updaten
-	- ERM updaten
+	- ERM updaten								OK
 
 --> Patterns
 	- MVC
