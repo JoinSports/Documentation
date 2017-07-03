@@ -15,7 +15,7 @@ The scope of this document applies to the JoinSports-App and affects implementat
 - UC: Use Case
 
 ### 1.4 References
-- [Use Cases](https://github.com/JoinSports/Documentation/tree/master/UC) of the JoinSports-App
+- [Use Cases] (https://github.com/JoinSports/Documentation/tree/master/Use%20Cases) of the JoinSports-App
 
 ### 1.5 Overview
 (n/a)
