@@ -63,4 +63,4 @@ We are using automated testing for the android app. Each commit is build with Tr
 [erm]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/erm_neu.PNG
 [Deploy]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/Deployment%20VIew.png
 [UCView]: https://github.com/JoinSports/Documentation/raw/master/UC%20Diagram/use-case%20diagram-newscope.png
-[ClassDiagram]: https://github.com/JoinSports/Documentation/blob/master/Class-diagram-UML/ClassDiagram_UML_cut.jpeg?raw=true
+[ClassDiagram]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/class-diagramm-marked.png
