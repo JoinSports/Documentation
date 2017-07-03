@@ -31,7 +31,7 @@ input and handles the response of the view to the user and performs actions with
 provides operations on that data as well as performing database operations.
 
 ## 4. Use-Case View
-(n/a)
+![UCView][]
 
 ## 5. Logical View
 ### 5.1 Overview
@@ -39,22 +39,28 @@ provides operations on that data as well as performing database operations.
 <!-- ###5.2 Architecturally Significant Design Packages -->
 
 ## 6. Process View
-(n/a)
+n/a
 
 ## 7. Deployment View
-to be determined
+![Deploy][]
 
 ## 8. Implementation View
-(n/a)
+* The android app uses the web API to gain data about the other users and teams.
+* The Web API is only hosted on one server and can be accessed by all Android clients.
 
 ## 9. Data View
-to be determined
+![erm][]
 
-## 10. Size and Perforance
-(n/a)
+## 10. Size and Performance
+The app should work for up to 100 concurrent users at the moment. The scaling is working pretty good so a larger userbase will be no problem. The performance could be improved by using more caching on the web API and using multiple servers as load balancers.
 
 ## 11. Quality
-(n/a)
+We are using automated testing for the android app. Each commit is build with TravisCI and gets a code coverage report on coveralls. The contributers of the project can see the coverage increase/decrease at merge and pull requests.
+![mergepic][]
 
 <!-- picture links -->
+[mergepic]: https://github.com/JoinSports/Documentation/raw/master/Testing/TravisCoverallsMerge.png
+[erm]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/erm_neu.PNG
+[Deploy]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/Deployment%20VIew.png
+[UCView]: https://github.com/JoinSports/Documentation/raw/master/UC%20Diagram/use-case%20diagram-newscope.png
 [ClassDiagram]: https://github.com/JoinSports/Documentation/blob/master/Class-diagram-UML/ClassDiagram_UML_cut.jpeg?raw=true
