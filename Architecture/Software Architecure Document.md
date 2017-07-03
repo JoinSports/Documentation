@@ -30,6 +30,12 @@ The MVC architecture provides seperation of concerns. The views handle what to r
 input and handles the response of the view to the user and performs actions with the model. The model stores the data and
 provides operations on that data as well as performing database operations.
 
+### 3.1 Patterns
+
+We are using the default MVP of Android as base. Because we needed more options we created our own pattern to access the database. Below you can see a part of the class diagram. It clearly show where the way is leading to. We are using a DAO Pattern which means “direct access object”. We introduced for each database object a new class which implements our DAO pattern.
+
+![patterns][]
+
 ## 4. Use-Case View
 ![UCView][]
 
@@ -59,6 +65,7 @@ We are using automated testing for the android app. Each commit is build with Tr
 ![mergepic][]
 
 <!-- picture links -->
+[patterns]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/Class%20Diagram%20(DAO%20Pattern).png
 [mergepic]: https://github.com/JoinSports/Documentation/raw/master/Testing/TravisCoverallsMerge.png
 [erm]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/erm_neu.PNG
 [Deploy]: https://github.com/JoinSports/Documentation/raw/master/Final%20Presentation/Deployment%20VIew.png
