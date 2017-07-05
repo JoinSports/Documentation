@@ -13,7 +13,8 @@ The user wants to see all existing teams. The application queries a all existing
 ![UC diagram][UC]
 
 #### 2.1.2 Mockup 
-![Mockup][Mock]
+![Mockup][Mock1]
+![Mockup][Mock2]
 
 #### 2.1.3 Feature file
 <!-- ![Feature] -->
@@ -62,5 +63,6 @@ n/a
 
 <!-- picture links -->
 [UC]: ? "UML Diagram"
-[Mock]: ? "Mockup"
+[Mock1]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Read%20Team%201.png "Mockup"
+[Mock2]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Read%20Team%202.png "Mockup"
 <!-- [Feature]:  "Feature file" -->
