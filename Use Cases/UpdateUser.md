@@ -65,5 +65,5 @@ n/a
 
 <!-- picture links -->
 [UML]: ? "UML Diagram"
-[Mock]: ? "Mock-Up"
+[Mock]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Update%20User.png "Mock-Up"
 <!-- [Feature]:  "Feature file" -->
