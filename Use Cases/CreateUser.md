@@ -93,5 +93,5 @@ n/a
 
 <!-- picture links -->
 [UC]: https://github.com/JoinSports/Documentation/blob/master/Activity%20Diagrams/UC01_CreateUser_ActivityDiagram.png "UC Diagram"
-[Mock]: ? "Mockup"
+[Mock]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Create%20User.png "Mockup"
 <!-- [Feature]:  "Feature file" -->
