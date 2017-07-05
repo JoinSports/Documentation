@@ -3,14 +3,11 @@
 
 ## 1. Use-Case Name 
 ### 1.1 Brief Description
-This use case ...
+This use case queries a all existing team names from the database.
 
 ## 2. Flow of Events
 ### 2.1 Basic Flow 
-The user specifies ...
-The system checks, whether ... 
-If the ... 
-Otherwise ...
+The user wants to see all existing teams. The application queries a all existing team names. If the database access was successful, the application shows all team names on the screen.
 
 #### 2.1.1 UML diagram
 ![UC diagram][UC]
@@ -23,30 +20,29 @@ Otherwise ...
 
 <Case 1>:
 ```cucumber
-Feature: <UC>
-  As a <unknown> user
-  I want to ...
- 	Scenario: <Case 1>
-    Given ...
-    When ...
-    Then ...
+Feature: Read All Unjoined Teams
+  As a normal user
+  I want to show all existing teams
+ 	Scenario: Database query successful
+    Given the user is logged in to his account
+    When the user opens the "Teams finden" menu in the Navigation Bar to show his personal user data
+    Then a list of all teams is printed to the screen
 ```
 <Case 2>:
 ```cucumber
-Feature: <UC>
-  As a <unknown> user
-  I want to ...
- 	Scenario: <Case 2>
-    Given ...
-    When ...
-    Then ...
+Feature: Read All Unjoined Teams
+  As a normal user
+  I want to show all existing teams
+ 	Scenario: Database query returns error
+    Given the user is logged in to his account
+    When the user opens the "Teams finden" menu in the Navigation Bar to show his personal user data
+    Then an error message is shown to the user
 ```
 
 
 ### 2.2 Alternative Flows
 #### 2.2.1 <Case>
-If ... , show an error message to the user that ... . End of flow.
-(In this case the user has to correct his user data and confirm them again.)
+If the database query of the requested team data sets returns an error message, show an error message to the user on the screen. End of flow. (In this case the user may try it again later.)
 
 ## 3. Special Requirements
 n/a
@@ -55,11 +51,11 @@ n/a
 The JoinsSport application must be installed and executed on a Android device.
 
 ## 5. Postconditions
-### 5.1 <State 1>
-The user has ...
+### 5.1 All team names visible
+The user can see a list of all existing team names on the screen.
 
-### 5.2	<State 2>
-If an error occurs ...
+### 5.2	All team names not visible
+If an error occurs the user can not see the list of existing team names. Instead he can see an error message that database connection was unsuccessful.
 
 ## 6. Extension Points
 n/a
