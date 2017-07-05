@@ -15,7 +15,8 @@ If the database access was successful, the application shows the user data on th
 ![UC diagram][UC]
 
 #### 2.1.2 Mockup 
-![Mockup][Mock]
+![Mockup][Mock1]
+![Mockup][Mock2]
 
 #### 2.1.3 Feature file
 
@@ -67,4 +68,5 @@ n/a
 
 <!-- picture links -->
 [UC]: https://github.com/JoinSports/Documentation/blob/master/Activity%20Diagrams/UC02_ReadUser_ActivityDiagram.png "UC Diagram"
-[Mock]: ? "Mockup"
+[Mock1]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Read%20User%201.png "Mockup"
+[Mock2]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Read%20User%202.png "Mockup"
