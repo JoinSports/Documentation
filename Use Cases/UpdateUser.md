@@ -8,7 +8,7 @@ This use case will allow the user to change some of his personal user account da
 ## 2. Flow of Events
 ### 2.1 Basic Flow 
 The user select the option to update his user account data within the settings menu. 
-After he adjust his user data he pressed the update button to send save the information on the server. 
+After he adjust his user data he pressed the update button to save the information on the server. 
 
 #### 2.1.1 UML diagram
 ![UML]
