@@ -15,7 +15,8 @@ Otherwise the application print out an error message that either username or pas
 ![UML]
 
 #### 2.1.2 Mock-up 
-![Mock]
+![Mock1]
+![Mock2]
 
 #### 2.1.3 Feature files
 <!-- ![Feature] -->
@@ -90,5 +91,6 @@ n/a
 
 <!-- picture links -->
 [UML]: ? "UML Diagram"
-[Mock]: ? "Mock-Up"
+[Mock1]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Welcome.png "Mock-Up"
+[Mock2]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Login%20User.png "Mock-Up"
 <!-- [Feature]:  "Feature file" -->
