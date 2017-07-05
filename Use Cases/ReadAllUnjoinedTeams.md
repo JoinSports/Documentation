@@ -18,7 +18,7 @@ The user wants to see all existing teams. The application queries a all existing
 #### 2.1.3 Feature file
 <!-- ![Feature] -->
 
-<Case 1>:
+Database query successful:
 ```cucumber
 Feature: Read All Unjoined Teams
   As a normal user
@@ -28,7 +28,7 @@ Feature: Read All Unjoined Teams
     When the user opens the "Teams finden" menu in the Navigation Bar to show his personal user data
     Then a list of all teams is printed to the screen
 ```
-<Case 2>:
+Database query returns error:
 ```cucumber
 Feature: Read All Unjoined Teams
   As a normal user
