@@ -3,18 +3,18 @@
 ## User (CRUD) 
 - [Create User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/CreateUser.md)
 - [Read User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadUser.md):
-- [Update User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UpdateUser.md): to be done
-- [Delete User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/DeleteUser.md): to be done
+- [Update User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UpdateUser.md)
+- [Delete User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/DeleteUser.md)
 - [Login User](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/LoginUser.md)
 
 ## Team (CRUD)
-- [Read All Unjoined Teams](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadAllUnjoinedTeams.md): to be done
+- [Read All Unjoined Teams](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadAllUnjoinedTeams.md)
 - [Read Unjoined Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadUnjoinedTeam.md): to be done
 - [Read All Joined Teams](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadAllJoinedTeams.md): to be done
 - [Read Joined Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/ReadJoinedTeam.md): to be done
-- [Create Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/CreateTeam.md): to be done
-- [Update Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UpdateTeam.md): to be done
-- [Delete Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/DeleteTeam.md): to be done
+- [Create Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/CreateTeam.md)
+- [Update Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UpdateTeam.md)
+- [Delete Team](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/DeleteTeam.md)
 
 ## Event (CRUD)
 - [UC10 Create Event](https://github.com/JoinSports/Documentation/blob/master/Use%20Cases/UC10_CreateEvent.md): to be done
