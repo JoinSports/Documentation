@@ -15,7 +15,8 @@ Otherwise print out an error message that the user account could not be created.
 ![UC diagram][UC]
 
 #### 2.1.2 Mockup 
-![Mockup][Mock]
+![Mockup][Mock1]
+![Mockup][Mock2]
 
 #### 2.1.3 Feature file
 <!-- ![Feature] -->
@@ -93,5 +94,6 @@ n/a
 
 <!-- picture links -->
 [UC]: https://github.com/JoinSports/Documentation/blob/master/Activity%20Diagrams/UC01_CreateUser_ActivityDiagram.png "UC Diagram"
-[Mock]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Create%20User.png "Mockup"
+[Mock1]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Welcome.png "Mockup"
+[Mock2]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Create%20User.png "Mockup"
 <!-- [Feature]:  "Feature file" -->
