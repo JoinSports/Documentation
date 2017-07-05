@@ -44,7 +44,7 @@ Feature: Update user
 ```
 
 ### 2.2 Alternative Flows
-#### 2.2.1 User not deleted 
+#### 2.2.1 User not updated 
 Because of problems during the connection to the server the update failed.
 
 ## 3. Special Requirements
@@ -55,7 +55,7 @@ The user must be logged in to his JoinSport account.
 
 ## 5. Postconditions
 ### 5.1 Update of the user data successful
-The user has deleted his account and is forwarded to th login/registration page.
+The user has updated his account data.
 
 ### 5.2	Update of the user data failed
 If there were problems during the connection to the server the update failed.
