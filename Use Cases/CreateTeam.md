@@ -88,5 +88,5 @@ n/a
 
 <!-- picture links -->
 [UML]: https://github.com/JoinSports/Documentation/blob/master/UC/Create%20Team.png "UML Diagram"
-[Mock]: https://github.com/JoinSports/Documentation/blob/master/UC/Mockup%20create%20team.png "Mock-Up"
+[Mock]: https://github.com/JoinSports/Documentation/blob/master/Mockups/Create%20Team.png "Mock-Up"
 <!-- [Feature]:  "Feature file" -->
